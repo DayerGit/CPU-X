@@ -13,10 +13,10 @@
 
                                                                   ENGLISH
 
-                           (!) For the best visual experience, it is recommended to use Windows 11 (!)
+                            (!) Old Neko program, rewritten to work on modern versions of Windows (!)
 
                             The repository consists of an .exe file ready to run and a folder with the source code.
-                            ..\source\CPU-X.h header file containing main structures and auxiliary functions
-                            ..\source\CPU-X.c file with code for implementing auxiliary functions
+                            ..\source\Neko.h header file containing main structures and auxiliary functions
+                            ..\source\Neko.c file with code for implementing auxiliary functions
                             ..\source\main.c main program code
-                            ..\source\cpu-x.ico application icon
+                            ..\source\ICO\*.ico files used to render Neko
