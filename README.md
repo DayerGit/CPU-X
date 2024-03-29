@@ -1,22 +1,22 @@
                                                                   РУССКИЙ
 
-                            (!) Старая программа Neko, перепиманная для работы на современных версиях Windows (!)
+                            (!) Для наилучшего визуального восприятия рекомендуется использовать Windows 11 (!)
 
                             Репозиторий состоит из .exe файла, готового для запуска и папки с исходным кодом.
-                            ..\source\Neko.h заголовочный файл, содержащий основные структуры и вспомогательные функции
-                            ..\source\Neko.c файл с кодом реализации вспомогательных функций
+                            ..\source\CPU-X.h заголовочный файл, содержащий основные структуры и вспомогательные функции
+                            ..\source\CPU-X.c файл с кодом реализации вспомогательных функций
                             ..\source\main.c основной код программы
-                            ..\source\ICO\*.ico файлы, используемые для отрисовки Neko
+                            ..\source\cpu-x.ico иконка приложения
                             
   
   -----------------------------------------------------------------------------------------------------------------------------
 
-                                                                  ENGLISH
+                                                                 ENGLISH
 
-                            (!) Old Neko program, rewritten to work on modern versions of Windows (!)
+                            (!) For the best visual experience, it is recommended to use Windows 11 (!)
 
                             The repository consists of an .exe file ready to run and a folder with the source code.
-                            ..\source\Neko.h header file containing main structures and auxiliary functions
-                            ..\source\Neko.c file with code for implementing auxiliary functions
+                            ..\source\CPU-X.h header file containing main structures and auxiliary functions
+                            ..\source\CPU-X.c file with code for implementing auxiliary functions
                             ..\source\main.c main program code
-                            ..\source\ICO\*.ico files used to render Neko
+                            ..\source\cpu-x.ico application icon
